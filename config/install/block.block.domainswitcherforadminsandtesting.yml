@@ -13,7 +13,7 @@ provider: null
 plugin: domain_switcher_block
 settings:
   id: domain_switcher_block
-  label: 'Domain switcher'
+  label: 'Domain switcher (for admins and testing)'
   provider: domain
   label_display: visible
 visibility: {  }
